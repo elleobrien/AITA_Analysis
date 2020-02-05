@@ -1,0 +1,13 @@
+md5: e2db2cb3f9c887d228fbed538352b0b3
+locked: true
+deps:
+- path: AITA_posts.csv
+  repo:
+    url: https://github.com/andronovhopf/AITA_Dataset
+    rev_lock: 8123e0969e7bddbe26c2b26144951061494d4757
+outs:
+- md5: a81d16985d2f630c742f53cf8d7a4c4a
+  path: AITA_posts.csv
+  cache: true
+  metric: false
+  persist: false
